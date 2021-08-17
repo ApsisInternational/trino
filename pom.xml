@@ -10,8 +10,7 @@
 
     <groupId>io.trino</groupId>
     <artifactId>trino-root</artifactId>
-    <version>357</version>
-
+    <version>357-CP4</version>
     <name>trino-root</name>
     <description>Trino</description>
     <packaging>pom</packaging>

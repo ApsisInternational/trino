@@ -24,7 +24,7 @@ public class DeflateCompressor
         implements Compressor
 {
     private static final int EXTRA_COMPRESSION_SPACE = 16;
-    private static final int COMPRESSION_LEVEL = 4;
+    private static final int COMPRESSION_LEVEL = 3;
 
     @Override
     public int maxCompressedLength(int uncompressedSize)
